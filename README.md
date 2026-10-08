@@ -8,6 +8,8 @@ I build software — mostly TypeScript products and developer tools — and lear
 
 [Repository](https://github.com/matiasgonzalovq/ados-bridge) · License: MIT · Release: v0.1.0
 
+![ADOS Bridge — ChatGPT connects through ADOS Bridge over MCP to a local OpenCode session](assets/ados-bridge-cover.webp)
+
 ## Also building
 
 **ADOS Docs** — an open-source document workspace (PWA) for creating and sharing construction quotes in CLP: clients, sections, line items, transparent calculations and PDF export. TypeScript and Vite on Firebase (your own project), with tests and CI.
